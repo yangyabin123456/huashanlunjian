@@ -2,4 +2,9 @@
 我是令狐冲，我比岳不群厉害！！
 我是华山掌门人
 haha 我有辟邪剑谱
+<<<<<<< HEAD
 java hello world  123456
+=======
+java hello world
+123345 edit by ybq
+>>>>>>> cd961be1072c9248f7bfbd10901bfcf7038c6c1a
